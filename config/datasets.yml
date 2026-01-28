@@ -1,0 +1,14 @@
+# Dataset configurations for RNA-seq workflow reproduction
+
+datasets:
+  - name: santana
+    bioproject: PRJNA904261
+    description: "Santana et al. 2023 - RNA-seq re-analysis dataset"
+    # Paper: papers/santana_2023.pdf
+    # Supplement: papers/santana_2023_Source_Data.xlsx
+
+  - name: wang
+    bioproject: PRJNA1086003
+    description: "Wang et al. 2024 - RNA-seq re-analysis dataset"
+    # Paper: papers/wang_2024.pdf
+    # Supplement: papers/wang_2024_sup.pdf
